@@ -37,6 +37,13 @@ h1 {
     margin: 20px 0;
 }
 
+img {
+    width: 300px;
+    height: 150px;
+    margin: 20px 0;
+    box-shadow: #ff4040 5px 5px 5px 5px;
+}
+
 button {
     background-color: #ff6363;
     color: white;
